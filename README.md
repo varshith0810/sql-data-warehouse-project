@@ -32,7 +32,6 @@ This project involves:
 - Data Analytics  
 
 ---
-
 ## 🛠️ Important Links & Tools:
 
 Everything is for Free!
